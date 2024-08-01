@@ -1,5 +1,7 @@
 # College Alumni Website using HTML/CSS
 
+Hi, this website was made by my team and I as a part of my 6th Semester web development project. I worked on most of the css and the landing page and was assisted by my team mates in the remaning pages. Thanks!
+
 ## Steps:
 - download all files and place them in one folder
 - open 'index2.html'
